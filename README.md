@@ -43,4 +43,8 @@ By following this checklist, you'll ensure that your data is clean, organized, a
 ## 7. Validating the data and pushing it to the datahub.io
 - Validating the `datapackage.json` is done succesfully in the local repository, however facing the issues with pushing and validating the datapackage due to the given problem:
   - Here is the issue of packaging: Updating from 0.9.5 -> 0.10.1 [data-cli-issue-380](https://github.com/datopian/data-cli/issues/380)
-  - Output: ![data push --public](https://raw.githubusercontent.com/gradedSystem/datapackage/main/images/img.png)
+### Output: 
+  <div style="text-align:center">
+    <img src="https://raw.githubusercontent.com/gradedSystem/datapackage/main/images/img.png" alt="Image Description" />
+  </div>
+
