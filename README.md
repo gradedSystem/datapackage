@@ -1,4 +1,5 @@
 # Part II: Data Packages
+  Original post for creating the datapackage: [Technical Onboarding guide](https://datahub.io/docs/getting-started/datapackage-find-prepare-share-guide)
 # Data Cleaning and Preparation Checklist
 
 Before starting any data analysis or modeling, it's essential to ensure that your data is clean and well-prepared. Follow this checklist to make sure your data is in the right shape for analysis.
